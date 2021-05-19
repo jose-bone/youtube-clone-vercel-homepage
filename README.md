@@ -10,9 +10,9 @@ UI Clone - Vercel (Homepage)
     <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
     <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000" alt="License">
 
-  <img src="https://img.shields.io/github/forks/jose-bone/podcastr?label=forks&message=MIT&color=49AA26&labelColor=000000" alt="Forks">
+  <img src="https://img.shields.io/github/forks/jose-bone/youtube-clone-vercel-homepage?label=forks&message=MIT&color=49AA26&labelColor=000000" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/jose-bone/podcastr?label=stars&message=MIT&color=49AA26&labelColor=000000" alt="Stars">
+  <img src="https://img.shields.io/github/stars/jose-bone/youtube-clone-vercel-homepage?label=stars&message=MIT&color=49AA26&labelColor=000000" alt="Stars">
   </a>
 </p>
 
