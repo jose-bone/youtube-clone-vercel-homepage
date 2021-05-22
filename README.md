@@ -18,6 +18,12 @@ UI Clone - Vercel (Homepage)
 
 <hr>
 
+## 📸 Screenshot
+
+![](assets/Vercel-Homepage-UIClone.png)
+
+<hr>
+
 ## 🧪 Resources
 
 - ✔ HTML, SCSS, JS
